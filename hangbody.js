@@ -241,7 +241,7 @@ var guess;
 
 function getGuess() {
   if (wrongGuessesCount > 0) {
-    guess = prompt(`What letter do you want to guess? (Your word so far: ${answerArray.join("   ")}. You've already guessed the following letters: ${lettersGuessed.join(", ")}.) <p>If you want to guess the whole word, or quit the game, click cancel.</p>`);
+    guess = prompt(`What letter do you want to guess? (Your word so far: ${answerArray.join("   ")}. You've already guessed the following letters: ${lettersGuessed.join(", ")}.) If you want to guess the whole word, or quit the game, click cancel.`);
   } else {
     guess = prompt(`What letter do you want to guess? (Your word so far: ${answerArray.join("   ")}.) If you want to guess the whole word, or quit the game, click cancel.`);
   }
