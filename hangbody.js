@@ -55,7 +55,7 @@ var words = [
   "omlette",
   "trickster",
   "parakeet",
-  "mother"
+  "mother",
   "celebration",
   "bookshelf",
   "stool",
