@@ -202,7 +202,19 @@ var words = [
   "daisy",
   "elephant",
   "otter",
-  "walrus"
+  "walrus",
+  "candy",
+  "radio",
+  "drawer",
+  "blanket",
+  "pajamas",
+  "sweater",
+  "pants",
+  "helmet",
+  "jacket",
+  "lamp",
+  "light",
+  "desk"
   ];
 
 //generate a random word from words
